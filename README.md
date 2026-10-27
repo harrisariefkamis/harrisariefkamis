@@ -5,17 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
 <p align="left">
-  <a href="https://github.com/harrisariefkamis" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/7C3AED" width="36" height="36" alt="GitHub" />
-  </a>
+  <a href="https://github.com/harrisariefkamis"><img src="https://cdn.simpleicons.org/github/7C3AED" width="36" height="36" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:harisariefkamis16@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
-  </a>
+  <a href="mailto:harrisariefkamis16@gmail.com"><img src="https://cdn.simpleicons.org/gmail/7C3AED" width="36" height="36" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/HarisAriefKamis" title="Linkedin">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/harrisariefkamis"><img src="https://cdn.simpleicons.org/linkedin/7C3AED" width="36" height="36" alt="LinkedIn" /></a>
 </p>
 
 </div>
