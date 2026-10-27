@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=Harris%20Arief%20Kamis&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=Harris%20Arief%20Kamis&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=62&descSize=16&descColor=FFFFFF" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
