@@ -7,9 +7,9 @@
 <p align="left">
   <a href="https://github.com/harrisariefkamis"><img src="https://cdn.simpleicons.org/github/7C3AED" width="36" height="36" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:harrisariefkamis16@gmail.com"><img src="https://cdn.simpleicons.org/gmail/7C3AED" width="36" height="36" alt="Email" /></a>
+  <a href="mailto:harisariefkamis16@gmail.com"><img src="https://cdn.simpleicons.org/gmail/7C3AED" width="36" height="36" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/harrisariefkamis"><img src="https://cdn.simpleicons.org/linkedin/7C3AED" width="36" height="36" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/HarisAriefKamis"><img src="https://cdn.simpleicons.org/linkedin/7C3AED" width="36" height="36" alt="LinkedIn" /></a>
 </p>
 </div>
 
