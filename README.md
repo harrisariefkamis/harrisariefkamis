@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=harryss.%20arf%20&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Data%20Enthusiast%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Visualisasi&descAlignY=62&descSize=16&descColor=FFFFFF" width="100%" />
 
@@ -21,8 +21,8 @@
     </picture>
   </a>
 </p>
+<div
 
----
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=google-colab&logoColor=white">
