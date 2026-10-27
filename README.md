@@ -4,15 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/harrisariefkamis">
     <img src="https://img.shields.io/badge/GitHub-harrisariefkamis-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:harrisariefkamis@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:harisariefkamis16@gmil.com">
+    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harrisariefkamis">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4E7FD4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connection-4E7FD4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -22,15 +22,13 @@
 
 ## Tech Stack
 
-<p align="center">
-  <strong>Programming & Notebooks</strong><br>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=google-colab&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white">
 </p>
 
-<p align="center">
-  <strong>Data Science & Machine Learning</strong><br>
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-2.0%2B-green">
   <img src="https://img.shields.io/badge/NumPy-1.24%2B-orange">
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?labelColor=1E293B&logo=scikitlearn&logoColor=white">
@@ -38,16 +36,14 @@
   <img src="https://img.shields.io/badge/Seaborn-0.12%2B-4c72b0">
 </p>
 
-<p align="center">
-  <strong>Databases & BI Tools</strong><br>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-Latest-orange?logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?labelColor=1E293B&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white">
 </p>
 
-<p align="center">
-  <strong>Analytical Skills</strong><br>
+<p align="left">
   <img src="https://img.shields.io/badge/Statistics-Expert-8B5CF6?labelColor=1E293B&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/EDA-Exploratory-EC4899?labelColor=1E293B&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-10B981?labelColor=1E293B&logo=pandas&logoColor=white">
@@ -71,7 +67,7 @@
 
 ---
 
-## Contribution Graph
+## Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
