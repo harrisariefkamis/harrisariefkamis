@@ -13,7 +13,7 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/harisariefkamis" title="LinkedIn">
+  <a href="https://linkedin.com/in/HarisAriefKamis" title="Linkedin">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
