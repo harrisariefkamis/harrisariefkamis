@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
----
 <p align="left">
   <a href="https://github.com/harrisariefkamis" title="GitHub">
     <picture>
@@ -24,9 +23,6 @@
 </p>
 
 ---
-
-## Stack Summary
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=google-colab&logoColor=white">
