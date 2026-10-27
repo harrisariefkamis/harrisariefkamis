@@ -42,7 +42,6 @@
 
 
 ## Stats overview
-
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrisariefkamis&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrisariefkamis&theme=tokyonight" width="32%" />
@@ -56,7 +55,6 @@
 
 
 ## Contribution
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
 </div>
@@ -80,7 +78,6 @@
     alt="Comment reactions"
     width="50%">
 </p>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=120&section=footer&animation=twinkling" width="100%" />
