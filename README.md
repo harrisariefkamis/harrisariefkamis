@@ -26,21 +26,6 @@
 ---
 
 ## Stack Summary
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/python.svg" width="48" height="48" alt="Python" /></a>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a>
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://lookerstudio.google.com"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/looker.svg" width="48" height="48" alt="Looker Studio" /></a>
-      <br><sub><b>Looker Studio</b></sub>
-    </td>
-  </tr>
-</table>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
