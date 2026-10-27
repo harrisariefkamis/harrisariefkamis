@@ -11,7 +11,6 @@
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/harrisariefkamis"><img src="https://cdn.simpleicons.org/linkedin/7C3AED" width="36" height="36" alt="LinkedIn" /></a>
 </p>
-
 </div>
 
 ---
