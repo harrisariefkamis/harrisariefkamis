@@ -9,11 +9,11 @@
     <img src="https://cdn.simpleicons.org/github/7C3AED" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:harrisariefkamis16@gmail.com" title="Email">
+  <a href="mailto:harisariefkamis16@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/harrisariefkamis" title="LinkedIn">
+  <a href="https://linkedin.com/in/harisariefkamis" title="LinkedIn">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
