@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white">
 </p>
 
----
 
 ## Stats overview
 
