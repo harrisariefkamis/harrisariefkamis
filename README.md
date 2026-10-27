@@ -55,7 +55,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrisariefkamis&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrisariefkamis&theme=tokyonight" width="98%" />
 </div>
 
 ---
