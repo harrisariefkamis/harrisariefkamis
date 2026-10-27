@@ -33,22 +33,13 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-2.0%2B-green">
-  <img src="https://img.shields.io/badge/NumPy-1.24%2B-orange">
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?labelColor=1E293B&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-3.7%2B-11557c">
-  <img src="https://img.shields.io/badge/Seaborn-0.12%2B-4c72b0">
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-Latest-orange?logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?labelColor=1E293B&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Statistics-Expert-8B5CF6?labelColor=1E293B&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/EDA-Exploratory-EC4899?labelColor=1E293B&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-10B981?labelColor=1E293B&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Problem%20Solving-Framework-F59E0B?labelColor=1E293B&logo=target&logoColor=white">
   <img src="https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white">
 </p>
