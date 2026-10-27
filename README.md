@@ -2,14 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=Harris%20Arief%20Kamis&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
 <p align="left">
-  <a href="https://github.com/harrisariefkamis"><img src="https://cdn.simpleicons.org/github/7C3AED" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://github.com/harrisariefkamis" title="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/1F2328">
+      <img src="https://cdn.simpleicons.org/github/C9D1D9" width="36" height="36" alt="GitHub">
+    </picture>
+  </a>
   &nbsp;&nbsp;
-  <a href="mailto:harisariefkamis16@gmail.com"><img src="https://cdn.simpleicons.org/gmail/7C3AED" width="36" height="36" alt="Email" /></a>
+  <a href="mailto:harrisariefkamis16@gmail.com" title="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/EA4335">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email">
+    </picture>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/HarisAriefKamis"><img src="https://cdn.simpleicons.org/linkedin/7C3AED" width="36" height="36" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/HarisAriefKamis" title="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/0A66C2">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn">
+    </picture>
+  </a>
 </p>
 </div>
 
