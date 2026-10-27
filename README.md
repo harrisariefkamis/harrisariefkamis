@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Harris%20Arief%20Kamis&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=Harris%20Arief%20Kamis&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
@@ -67,4 +67,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=120&section=footer&animation=twinkling" width="100%" />
