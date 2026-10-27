@@ -4,6 +4,39 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Machine+Learning+with+Scikit-Learn;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
+---
+<h3 align="left"> Core Stack</h3>
+
+<p align="left">
+  <a href="https://www.python.org" title="Python">
+    <img
+      src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/python.svg"
+      width="56" height="56"
+      style="padding: 16px; border: 2px solid #FFFFFF; border-radius: 20px;"
+      alt="Python" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" title="PostgreSQL">
+    <img
+      src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/postgresql.svg"
+      width="56" height="56"
+      style="padding: 16px; border: 2px solid #FFFFFF; border-radius: 20px;"
+      alt="PostgreSQL" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://lookerstudio.google.com" title="Looker Studio">
+    <img
+      src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/looker.svg"
+      width="56" height="56"
+      style="padding: 16px; border: 2px solid #FFFFFF; border-radius: 20px;"
+      alt="Looker Studio" />
+  </a>
+</p>
+
+<p align="left">
+  <sub><b>Python</b> · <b>PostgreSQL</b> · <b>Looker Studio</b></sub>
+</p>
+
 <p align="left">
   <a href="https://github.com/harrisariefkamis" title="GitHub">
     <picture>
