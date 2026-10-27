@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/harrisariefkamis">
-    <img src="https://img.shields.io/badge/GitHub-harrisariefkamis-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:harisariefkamis16@gmil.com">
     <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
