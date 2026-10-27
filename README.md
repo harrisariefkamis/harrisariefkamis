@@ -20,14 +20,6 @@
       <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email">
     </picture>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/HarisAriefKamis" title="LinkedIn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/0A66C2">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn">
-    </picture>
-  </a>
 </p>
 </div>
 
