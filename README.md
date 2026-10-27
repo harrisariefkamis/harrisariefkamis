@@ -82,7 +82,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
 </div>
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.topics.svg?v=1"
     alt="Starred topics">
