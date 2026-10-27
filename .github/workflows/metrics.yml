@@ -42,7 +42,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Jakarta
 
-        - name: Starred topics (icons)
+      - name: Starred topics (icons)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
