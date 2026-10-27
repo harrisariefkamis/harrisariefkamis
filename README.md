@@ -79,15 +79,14 @@
 
 ## Contribution
 
-<p align="left">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
+</div>
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.topics.svg?v=1"
     alt="Starred topics">
 </p>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.isocalendar.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.isocalendar.svg">
