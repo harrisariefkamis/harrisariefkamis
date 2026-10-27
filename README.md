@@ -78,4 +78,14 @@
 
 ---
 
+## Reactions
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.reactions.svg?v=1"
+    alt="Comment reactions"
+    width="100%">
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=120&section=footer&animation=twinkling" width="100%" />
