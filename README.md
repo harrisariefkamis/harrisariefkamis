@@ -6,13 +6,13 @@
 
 <p align="left">
   <a href="https://github.com/harrisariefkamis">
-    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-harrisariefkamis-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:harisariefkamis16@gmil.com">
-    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:harrisariefkamis16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harrisariefkamis16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/harrisariefkamis">
-    <img src="https://img.shields.io/badge/Connection-4E7FD4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-harrisariefkamis-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
