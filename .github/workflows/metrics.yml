@@ -42,14 +42,13 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Jakarta
 
-      # Tambahkan di bawah step isocalendar
-      - name: Starred topics (labels)
+        - name: Starred topics (icons)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
+          filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: labels
-          plugin_topics_sort: stars
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
