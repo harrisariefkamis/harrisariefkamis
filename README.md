@@ -10,7 +10,8 @@
   <img alt="isometric commit calendar" src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.isocalendar.svg">
 </picture>
 
-<!-- 4. Starred topics (opsional) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.topics.svg?v=1" alt="topics">
+  <img
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.topics.svg?v=1"
+    alt="Starred topics">
 </p>
