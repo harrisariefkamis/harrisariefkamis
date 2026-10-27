@@ -1,0 +1,43 @@
+name: Metrics (Isometric Calendar)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # jam 01:00 UTC, geser 1 jam dari pacman (00:00) agar tidak barengan
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write   # wajib: bot commit SVG ke main
+
+    steps:
+      # ─────────────────────────────────────────────────
+      # Half-year isocalendar (default, 180 hari)
+      # ─────────────────────────────────────────────────
+      - name: Half-year isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""                              # kosongkan = hanya isocalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Jakarta
+
+      # ─────────────────────────────────────────────────
+      # Full-year isocalendar (365 hari)
+      # ─────────────────────────────────────────────────
+      - name: Full-year isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Jakarta
