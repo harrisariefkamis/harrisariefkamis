@@ -52,13 +52,13 @@
 
 ## Stats overview
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrisariefkamis&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrisariefkamis&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrisariefkamis&theme=tokyonight" width="32%" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrisariefkamis&theme=tokyonight" width="100%" />
 </div>
 
@@ -66,7 +66,7 @@
 
 ## Contribution
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/output/pacman-contribution-graph-dark.svg?v=1" alt="Pac-Man contribution graph" width="100%" />
 </div>
 
