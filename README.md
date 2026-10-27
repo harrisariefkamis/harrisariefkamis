@@ -26,23 +26,21 @@
 ---
 
 ## Stack Summary
-<p align="left">
-  <a href="https://www.python.org" title="Python">
-    <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/python.svg" width="56" height="56" alt="Python" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/postgresql.svg" width="56" height="56" alt="PostgreSQL" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://lookerstudio.google.com" title="Looker Studio">
-    <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/looker.svg" width="56" height="56" alt="Looker Studio" />
-  </a>
-</p>
-
-<p align="left">
-  <sub><b>Python</b> · <b>PostgreSQL</b> · <b>Looker Studio</b></sub>
-</p>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/python.svg" width="48" height="48" alt="Python" /></a>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://lookerstudio.google.com"><img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/looker.svg" width="48" height="48" alt="Looker Studio" /></a>
+      <br><sub><b>Looker Studio</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
