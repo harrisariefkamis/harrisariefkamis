@@ -53,7 +53,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrisariefkamis&theme=tokyonight" width="98%" />
 </div>
 
----
+
 
 ## Contribution
 
@@ -71,7 +71,7 @@
   <img alt="isometric commit calendar" src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.isocalendar.svg">
 </picture>
 
----
+
 
 ## Reactions
 <p align="left">
@@ -81,6 +81,6 @@
     width="50%">
 </p>
 
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=120&section=footer&animation=twinkling" width="100%" />
