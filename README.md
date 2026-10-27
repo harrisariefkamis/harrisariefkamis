@@ -79,11 +79,11 @@
 ---
 
 ## Reactions
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.reactions.svg?v=1"
     alt="Comment reactions"
-    width="100%">
+    width="50%">
 </p>
 
 ---
