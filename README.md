@@ -32,7 +32,7 @@
 <img
   src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-stack-four.png"
   alt="logo-icons-stack-four"
-  width="500" />
+  width="200" />
 <p align="left">
 
 <p align="centert">
