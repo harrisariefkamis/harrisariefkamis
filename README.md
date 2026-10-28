@@ -27,7 +27,7 @@
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon-stack.png"
     alt="logo-icon-stack"
-    width="200" />
+    width="400" />
 </p>
 </p>
 <p align="left">
