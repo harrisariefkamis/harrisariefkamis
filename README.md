@@ -23,12 +23,11 @@
 </p>
 <div
 
-<p align="left">
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon-stack.png"
-    alt="logo-icon-stack"
-    width="400" />
-</p>
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon.svg"
+    alt="logo-icon"
+    width="300" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
