@@ -42,6 +42,14 @@
 </p>
 </div>
 
+## Capabilty Portofolio
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.pagespeed.svg?v=1"
+    alt="Google PageSpeed scores"
+    width="100%" />
+</p>
+
 ## User Community
 <p align="left">
   <img
