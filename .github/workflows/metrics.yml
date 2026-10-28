@@ -65,18 +65,3 @@ jobs:
           plugin_reactions_limit_issues: 100
           plugin_reactions_limit_discussions: 100
           plugin_reactions_details: count,percentage
-          
-      # 3. fact habits
-      - name: Coding habits (facts only)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          plugin_habits_from: 50       # Turunkan dari 100 ke 50
-          plugin_habits_days: 14       # Turunkan dari 30 ke 14
-          config_timezone: Asia/Jakarta
-          repositories_batch: 5        # Proses repositori 5 per 5 untuk hindari timeout
