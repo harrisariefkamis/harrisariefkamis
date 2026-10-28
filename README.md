@@ -42,12 +42,12 @@
 </p>
 </div>
 
-## Coding Habits & Act
+## Coding Habits & Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.svg?v=1"
-    alt="Coding habits and activity"
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.facts.svg?v=1"
+    alt="Coding habits facts"
     width="100%" />
 </p>
 
