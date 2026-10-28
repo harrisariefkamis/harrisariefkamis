@@ -43,7 +43,7 @@
 </div>
 
 ## Capabilty Portofolio
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.pagespeed.svg?v=1"
     alt="Google PageSpeed scores"
