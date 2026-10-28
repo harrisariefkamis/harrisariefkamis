@@ -22,7 +22,14 @@
   </a>
 </p>
 <div
-https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg
+  https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg
+  <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="URL_LOGO_VERSI_GELAP.svg">
+    <source media="(prefers-color-scheme: light)" srcset="URL_LOGO_VERSI_TERANG.svg">
+    <img src="URL_LOGO_VERSI_TERANG.svg" width="120" alt="Logo">
+  </picture>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=google-colab&logoColor=white">
