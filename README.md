@@ -23,7 +23,7 @@
 </p>
 <div
 <p align="left">
-  <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg" width="300" alt="Logo" />
+  <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg" width="500" alt="Logo" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
