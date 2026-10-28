@@ -22,7 +22,6 @@
   </a>
 </p>
 <div
-  https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="URL_LOGO_VERSI_GELAP.svg">
