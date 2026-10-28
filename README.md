@@ -42,25 +42,16 @@
 </p>
 </div>
 
-## Stats and Habits Act
-
----
-
-## 💡 Coding Habits & Activity
+## Coding Habits & Act
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.facts.svg?v=1"
-    alt="Coding habits (facts)"
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.svg?v=1"
+    alt="Coding habits and activity"
     width="100%" />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.charts.svg?v=1"
-    alt="Coding habits (charts)"
-    width="100%" />
-</p>
+## Stats Overview
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrisariefkamis&theme=tokyonight" width="32%" />
