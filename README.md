@@ -42,13 +42,13 @@
 </p>
 </div>
 
-## Follow more
+## User Community
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.people.svg?v=1"
     alt="Followers and following"
-    width="100%" />
+    width="50%" />
 </p>
 
 ## Stats Overview
