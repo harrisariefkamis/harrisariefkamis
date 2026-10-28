@@ -27,7 +27,7 @@
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon.svg"
     alt="logo-icon"
-    width="500" />
+    width="700" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
