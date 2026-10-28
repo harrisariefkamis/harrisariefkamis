@@ -44,13 +44,18 @@
 
 ## Stats and Habits Act
 
-<p align="left">
+---
+
+## 💡 Coding Habits & Activity
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.facts.svg?v=1"
     alt="Coding habits (facts)"
     width="100%" />
 </p>
-<p align="left">
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.habits.charts.svg?v=1"
     alt="Coding habits (charts)"
