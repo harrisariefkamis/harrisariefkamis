@@ -9,7 +9,7 @@
     <img
       src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-3.png"
       alt="logo-icons-3"
-      width="300"
+      width="400"
       style="padding: 12px; border: 2px solid #FFFFFF; border-radius: 16px; background: #0D1117; cursor: pointer;" />
   </a>
 </p>
