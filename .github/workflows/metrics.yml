@@ -41,7 +41,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Jakarta
-
+      # metrics plugin topics
       - name: Starred topics (icons)
         uses: lowlighter/metrics@latest
         with:
@@ -52,7 +52,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-          # 2. Comment reactions
+      # 2. Comment reactions
       - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
@@ -64,4 +64,33 @@ jobs:
           plugin_reactions_limit_issues: 100
           plugin_reactions_limit_discussions: 100
           plugin_reactions_details: count,percentage
+
+      # Facts saja
+      - name: Coding habits (facts)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          config_timezone: Asia/Jakarta
+
+      # Charts saja
+      - name: Coding habits (charts)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
+          plugin_habits_languages_limit: 8
+          config_timezone: Asia/Jakarta
 
