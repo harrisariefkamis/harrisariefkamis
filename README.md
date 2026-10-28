@@ -4,6 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Data+is+new+root+%7C+learn+algorithm+the+Plants;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-3.png"
+    alt="logo-icons-3"
+    width="300" />
+</p>
+
 <p align="left">
   <a href="https://github.com/harrisariefkamis" title="GitHub">
     <picture>
