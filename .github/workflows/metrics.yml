@@ -65,3 +65,15 @@ jobs:
           plugin_reactions_limit_issues: 100
           plugin_reactions_limit_discussions: 100
           plugin_reactions_details: count,percentage
+          
+      # followers and following
+      - name: Followers and following
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+          plugin_people_size: 28
