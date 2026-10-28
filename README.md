@@ -22,6 +22,7 @@
   </a>
 </p>
 <div
+https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg
 <p align="left">
   <img src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/74d1aee74f36045faba0b12476e5888ac452d023/logo-icon.svg" width="1000" alt="Logo" />
 </p>
