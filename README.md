@@ -29,7 +29,6 @@
   </a>
 </p>
 
-
 <img
   src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-stack-four.png"
   alt="logo-icons-stack-four"
@@ -41,7 +40,7 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-Framework-F59E0B?labelColor=1E293B&logo=target&logoColor=white">
   <img src="https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white">
 </p>
-
+<div
 
 ## Stats overview
 <div align="left">
