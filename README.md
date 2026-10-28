@@ -5,30 +5,30 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=C9D1D9&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+Enthusiast;Exploratory+Data+Analysis+%7C+Visualization;Data+is+new+root+%7C+learn+algorithm+the+Plants;SQL+%7C+Looker+Studio+%7C+Google+Sheets" />
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-3.png"
-    alt="logo-icons-3"
-    width="300" />
+  <a href="https://bit.ly/WebsitePortofolioDataAnalyst" target="_blank" rel="noopener" title="Kunjungi Portofolio">
+    <img
+      src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-3.png"
+      alt="logo-icons-3"
+      width="300"
+      style="padding: 12px; border: 2px solid #FFFFFF; border-radius: 16px; background: #0D1117; cursor: pointer;" />
+  </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/harrisariefkamis" title="GitHub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/1F2328">
-      <img src="https://cdn.simpleicons.org/github/C9D1D9" width="36" height="36" alt="GitHub">
-    </picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harisariefkamis" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:harisariefkamis16@gmail.com" title="Email">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/EA4335">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email">
-    </picture>
+  <a href="https://github.com/harrisariefkamis" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://bit.ly/WebsitePortofolioDataAnalyst" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portofolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portofolio" />
+  </a>
+  <a href="https://www.tiktok.com/@harrryyyst" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
-<div
+
 
 <img
   src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-stack-four.png"
