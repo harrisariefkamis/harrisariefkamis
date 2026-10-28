@@ -41,7 +41,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Jakarta
-      # 1. metrics plugin topics
+      
+      # 1. metrics topics
       - name: Starred topics (icons)
         uses: lowlighter/metrics@latest
         with:
@@ -65,7 +66,7 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_details: count,percentage
           
-      # 3. tampilkan fact saja
+      # 3. fact habits
       - name: Coding habits (facts only)
         uses: lowlighter/metrics@latest
         with:
