@@ -23,7 +23,12 @@
 </p>
 <div
 
-
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon-stack.png"
+    alt="logo-icon-stack"
+    width="200" />
+</p>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
