@@ -22,12 +22,7 @@
   </a>
 </p>
 <div
-  <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="URL_LOGO_VERSI_GELAP.svg">
-    <source media="(prefers-color-scheme: light)" srcset="URL_LOGO_VERSI_TERANG.svg">
-    <img src="URL_LOGO_VERSI_TERANG.svg" width="120" alt="Logo">
-  </picture>
+  
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
