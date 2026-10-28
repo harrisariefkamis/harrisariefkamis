@@ -35,22 +35,7 @@
   alt="logo-icons-stack-four"
   width="500" />
 <p align="left">
-  <img
-    src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon.svg"
-    alt="logo-icon"
-    width="700" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=google-colab&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/DBeaver-Latest-orange?logo=dbeaver&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?labelColor=1E293B&logo=googlesheets&logoColor=white">
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white">
-</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/EDA-Exploratory-EC4899?labelColor=1E293B&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Problem%20Solving-Framework-F59E0B?labelColor=1E293B&logo=target&logoColor=white">
