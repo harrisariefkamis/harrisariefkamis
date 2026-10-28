@@ -43,8 +43,7 @@
 </div>
 
 ## User Community
-
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.people.svg?v=1"
     alt="Followers and following"
@@ -52,7 +51,6 @@
 </p>
 
 ## Stats Overview
-
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrisariefkamis&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrisariefkamis&theme=tokyonight" width="32%" />
@@ -62,7 +60,6 @@
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrisariefkamis&theme=tokyonight" width="98%" />
 </div>
-
 
 
 ## Contribution
