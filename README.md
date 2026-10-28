@@ -23,6 +23,10 @@
 </p>
 <div
 
+<img
+  src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icons-stack-four.png"
+  alt="logo-icons-stack-four"
+  width="500" />
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/logo-icon.svg"
