@@ -40,7 +40,7 @@
   <img src="logos/supabase.svg"    width="56" height="56" alt="Supabase" />
   <img src="logos/googlecloud.svg" width="64" height="56" alt="Google Cloud" />
   <img src="logos/photoshop.svg"   width="56" height="56" alt="Adobe Photoshop" />
-  <img src="logos/canva.svg"       width="56" height="56" alt="Canva" />
+  <img src="canva.svg"       width="56" height="56" alt="Canva" />
   <img src="logos/clawd.svg"       width="64" height="64" alt="Clawd" />
 </p>
 
