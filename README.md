@@ -46,10 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EDA-Exploratory-EC4899?labelColor=1E293B&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Framework-F59E0B?labelColor=1E293B&logo=target&logoColor=white">
-  <img src="https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white">
-</p>
+  <img src="pandas.svg"      width="56" height="56" alt="Pandas" />
+  <img src="numpy.svg"      width="56" height="56" alt="Numpy" />
+  <img src="seaborn.svg"      width="56" height="56" alt="Seaborn" />
+  <img src="powerbi.svg"      width="56" height="56" alt="Powerbi" />
+  <img src="tableau.svg"      width="56" height="56" alt="Tableau" />
 </div>
 
 ## Capability Portofolio
