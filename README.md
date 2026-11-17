@@ -51,6 +51,7 @@
   <img src="seaborn.svg"      width="56" height="56" alt="Seaborn" />
   <img src="powerbi.svg"      width="56" height="56" alt="Powerbi" />
   <img src="tableau.svg"      width="56" height="56" alt="Tableau" />
+   <img src="jupyter.svg"      width="56" height="56" alt="Jupyter Notebook" />
 </div>
 
 ## Capability Portofolio
