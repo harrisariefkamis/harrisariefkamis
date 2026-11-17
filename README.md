@@ -38,6 +38,7 @@
 <p align="center">
   <img src="docker.svg"      width="56" height="56" alt="Docker" />
   <img src="supabase.svg"    width="56" height="56" alt="Supabase" />
+  <img src="vercel.svg"    width="56" height="56" alt="vercel" />
   <img src="googlecloud.svg" width="64" height="56" alt="Google Cloud" />
   <img src="photoshop.svg"   width="56" height="56" alt="Adobe Photoshop" />
   <img src="canva.svg"       width="56" height="56" alt="Canva" />
