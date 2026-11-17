@@ -52,7 +52,7 @@
 </p>
 </div>
 
-## Capabilty Portofolio
+## Capability Portofolio
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/harrisariefkamis/harrisariefkamis/main/metrics.plugin.pagespeed.svg?v=1"
