@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover linkedin.jpg"      width="56" height="56" alt="coverlinkedin" />
+  <img src="cover linkedin.jpg"      width="100" height="80" alt="coverlinkedin" />
 
 <div align="center">
 
