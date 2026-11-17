@@ -107,5 +107,4 @@
 
 <p align="center">
   <img src="cover linkedin.jpg"      width="1000" height="300" alt="coverlinkedin" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21262D,100:30363D&height=100&section=footer&animation=twinkling" width="100%" />
