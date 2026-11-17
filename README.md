@@ -38,11 +38,11 @@
 <p align="center">
   <img src="docker.svg"      width="56" height="56" alt="Docker" />
   <img src="supabase.svg"    width="56" height="56" alt="Supabase" />
-  <img src="vercel-white.svg"    width="56" height="56" alt="vercel" />
+  <img src="vercel-white.svg"    width="70" height="56" alt="vercel" />
   <img src="googlecloud.svg" width="64" height="56" alt="Google Cloud" />
   <img src="photoshop.svg"   width="56" height="56" alt="Adobe Photoshop" />
   <img src="canva.svg"       width="56" height="56" alt="Canva" />
-  <img src="clawd.svg"       width="64" height="64" alt="Clawd" />
+  <img src="clawd.svg"       width="70" height="64" alt="Clawd" />
 </p>
 
 <p align="center">
